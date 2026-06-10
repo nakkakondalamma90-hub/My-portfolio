@@ -84,6 +84,7 @@ GitHub Pages Link:
 
 ```text
 https://yourusername.github.io/portfolio-website/
+
 ```
 
 Replace `yourusername` with your GitHub username after deployment.
@@ -104,7 +105,8 @@ Replace `yourusername` with your GitHub username after deployment.
 Your website will be available at:
 
 ```text
-https://yourusername.github.io/portfolio-website/
+https://github.com/nakkakondalamma90-hub/My-portfolio/edit/main/README.md
+
 ```
 
 ---
@@ -122,11 +124,11 @@ https://yourusername.github.io/portfolio-website/
 
 ## 👤 Author
 
-Your Name
+Nakka Kondalamma
 
-GitHub:https://github.com/nakkakondalamma90-hub/My-portfolio/new/main?filename=README.md
+GitHub: https://github.com/nakkakondalamma90-hub/My-portfolio/edit/main/README.md
 
-Email:nakkakondalamma90@gmail.com
+Email: nakkkakondalamma90@gmail.com
 
 ---
 
