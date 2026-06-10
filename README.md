@@ -105,7 +105,7 @@ Replace `yourusername` with your GitHub username after deployment.
 Your website will be available at:
 
 ```text
-https://github.com/nakkakondalamma90-hub/My-portfolio/edit/main/README.md
+https://yourusername.github.io/portfolio-website/
 
 ```
 
