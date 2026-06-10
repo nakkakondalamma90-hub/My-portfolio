@@ -1,21 +1,19 @@
-# To-Do List Application
+# Weather App
 
 ## Overview
 
-This project is a simple and interactive To-Do List Application developed using HTML, CSS, and JavaScript.
-
-The application allows users to add, complete, and delete tasks while storing data in Local Storage so tasks remain available even after refreshing the page.
+This project is a responsive Weather Application built using HTML, CSS, and JavaScript. It fetches real-time weather information from the OpenWeatherMap REST API and displays weather details for any city entered by the user.
 
 ---
 
 ## Features
 
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- Data persistence using Local Storage
+- Search weather by city name
+- Real-time weather updates
+- Loading indicator while fetching data
+- Error handling for invalid inputs
 - Responsive design
-- Interactive DOM manipulation
+- Dynamic DOM manipulation using JavaScript
 
 ---
 
@@ -24,13 +22,32 @@ The application allows users to add, complete, and delete tasks while storing da
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Local Storage API
+- Fetch API
+- OpenWeatherMap API
+
+---
+
+## API Information
+
+API Provider:
+https://openweathermap.org/api
+
+Endpoint Used:
+
+https://api.openweathermap.org/data/2.5/weather
+
+Data Retrieved:
+- City Name
+- Temperature
+- Weather Description
+- Humidity
+- Wind Speed
 
 ---
 
 ## Project Structure
 
-todo-app/
+weather-app/
 │
 ├── index.html
 ├── style.css
@@ -39,32 +56,12 @@ todo-app/
 
 ---
 
-## How to Run
+## Deployment
 
-1. Download or clone the repository.
-2. Open index.html in a browser.
-3. Start managing your tasks.
+Hosted using GitHub Pages.
 
----
+Live Demo:
+https://yourusername.github.io/weather-app/
 
-## Learning Outcomes
-
-- DOM Manipulation
-- Event Handling
-- Local Storage
-- Responsive Design
-- JavaScript Functions
-
----
-
-## Author
-
-Nakka Kondalamma
-- GitHub:https://github.com/nakkakondalamma90-hub/My-portfolio/edit/main/README.md 
-- Email: nakkkakondalamma90@gmail.com
-
----
-
-## License
-
-This project is developed for educational and professional portfolio purposes. Feel free to use and modify it according to your requirements.
+Source Code:
+https://github.com/yourusername/weather-app
